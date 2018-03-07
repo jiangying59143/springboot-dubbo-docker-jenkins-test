@@ -13,7 +13,7 @@ public class UserController {
     UserService userService;
 
     @ResponseBody
-    @GetMapping(path="test")
+    @GetMapping(path="/test")
     public String test(){
         return userService.test();
     }
