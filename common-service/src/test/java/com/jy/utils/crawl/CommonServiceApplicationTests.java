@@ -1,4 +1,4 @@
-package com.jy.user;
+package com.jy.utils;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class UserApplicationTests {
+public class CommonServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {

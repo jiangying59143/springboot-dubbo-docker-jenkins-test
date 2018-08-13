@@ -1,8 +1,7 @@
-package com.jy.controller.user;
+package com.jy.utils.crawl.controller.user;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.alibaba.dubbo.config.annotation.Service;
-import com.jy.service.UserService;
+import com.jy.service.service.UserService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
