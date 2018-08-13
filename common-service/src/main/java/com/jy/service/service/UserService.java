@@ -1,4 +1,4 @@
-package com.jy.utils.crawl.service;
+package com.jy.service.service;
 
 public interface UserService {
     String test();

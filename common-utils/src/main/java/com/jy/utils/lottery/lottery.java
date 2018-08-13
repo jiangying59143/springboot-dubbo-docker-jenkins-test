@@ -1,4 +1,4 @@
-package lottery;
+package com.jy.utils.lottery;
 
 import com.jy.utils.crawl.Crawl;
 import org.jsoup.nodes.Document;

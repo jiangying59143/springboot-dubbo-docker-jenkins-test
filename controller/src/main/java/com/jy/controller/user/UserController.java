@@ -1,4 +1,4 @@
-package com.jy.utils.crawl.controller.user;
+package com.jy.controller.user;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import com.jy.service.service.UserService;

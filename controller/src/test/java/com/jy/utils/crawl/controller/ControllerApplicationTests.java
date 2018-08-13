@@ -1,4 +1,4 @@
-package com.jy.utils.controller;
+package com.jy.utils.crawl.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

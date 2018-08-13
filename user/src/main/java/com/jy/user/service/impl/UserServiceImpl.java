@@ -1,7 +1,7 @@
-package com.jy.utils.crawl.user.service.impl;
+package com.jy.user.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.jy.utils.crawl.service.UserService;
+import com.jy.service.service.UserService;
 
 @Service(version="1.0.0")
 @org.springframework.stereotype.Service

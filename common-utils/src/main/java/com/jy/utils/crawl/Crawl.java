@@ -1,4 +1,4 @@
-package com.jy.utils;
+package com.jy.utils.crawl;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -10,7 +10,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-public class crawl {
+public class Crawl {
     public static final int TAG_SELECTOR = 0;
     public static final int CLASS_SELECTOR = 1;
     public static final int ID_SELECTOR = 2;

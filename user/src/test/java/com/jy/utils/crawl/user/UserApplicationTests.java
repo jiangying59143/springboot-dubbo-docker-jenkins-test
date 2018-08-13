@@ -1,4 +1,4 @@
-package com.jy.utils.user;
+package com.jy.utils.crawl.user;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
